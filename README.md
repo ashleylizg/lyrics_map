@@ -1,1 +1,1 @@
-Scrape song lyrics and create map projections based on city locations mentioned
+Scrape song lyrics using the Genius API and create map projections using plotly and mapbox based on city mentions

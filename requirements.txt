@@ -6,4 +6,3 @@ pandas==1.0.3
 plotly==4.6.0
 plotly-express==0.4.1
 requests==2.23.0
-urllib==2.7.9
